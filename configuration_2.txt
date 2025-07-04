@@ -1,2 +1,2 @@
-username: "my_user_nameqs"
-pwd: "dqsmkldfjsqmfjç!èéç"')ç&éè23458290UOLDKJnKJH8U197Zmjlsdjqmsjdduà&çudjlksmqdsd"
+username: "my_user_names"
+pwd: "dqsmkldfjsqmfjç!jqmsjdduà&çudjlksmqdsd"
