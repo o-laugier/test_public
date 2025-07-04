@@ -1,2 +1,2 @@
 username: test10
-slack_api_token: xoxp-aze23hg7y-1111K11test
+slack_api_token: xoxp-aze23hg7y-1111K11test2_occurence
