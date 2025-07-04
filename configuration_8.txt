@@ -1,0 +1,2 @@
+username: test8
+slack_api_token: xoxp-aze23hg7y-88g8
