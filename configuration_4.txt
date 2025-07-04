@@ -1,0 +1,2 @@
+New_slack_user: test
+new_slack_api_key: xoxp-aze23hg7y-88a2
