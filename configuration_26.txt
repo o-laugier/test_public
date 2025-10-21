@@ -1,0 +1,2 @@
+username: test16
+slack_api_token: xoxp-azlfksdlfg7y-1872H26
